@@ -20,9 +20,9 @@
 #define XMRIG_VERSION_H
 
 #define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
+#define APP_NAME      "XMRig-salvium"
 #define APP_DESC      "XMRig miner"
-#define APP_VERSION   "6.21.3"
+#define APP_VERSION   "6.21.3r"
 #define APP_DOMAIN    "xmrig.com"
 #define APP_SITE      "www.xmrig.com"
 #define APP_COPYRIGHT "Copyright (C) 2016-2024 xmrig.com"
